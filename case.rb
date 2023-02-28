@@ -1,8 +1,9 @@
-# Should output:
+# Should output (on one line):
 # 
 #   "HELLO friends AnD FaMiLy"
 # 
-# using a combination of the upcase, downcase, and swapcase methods.
+# using a combination of the upcase, downcase,
+# and swapcase methods, along with string addition.
 
 greeting = "hello"
 people = " FRIENDS"
